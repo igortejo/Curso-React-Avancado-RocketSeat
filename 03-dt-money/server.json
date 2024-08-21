@@ -63,6 +63,14 @@
       "category": "Nao sei",
       "type": "outcome",
       "createdAt": "2024-08-15T12:48:51.781Z"
+    },
+    {
+      "id": "8fd6",
+      "description": "fsdffm,.;;",
+      "price": 2524,
+      "category": "Alimentção",
+      "type": "income",
+      "createdAt": "2024-08-15T13:40:06.894Z"
     }
   ]
 }
